@@ -1,7 +1,7 @@
   const int IN_MIC = 8;
   const int OUT_MOTOR = 9;
   const int LED_PIN = 6;
-  const int SAMPLE_TIME = 120;
+  const int SAMPLE_TIME = 40;
 
   unsigned long millisCurrent;
   unsigned long millisLast = 0;
